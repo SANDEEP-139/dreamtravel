@@ -1,0 +1,10 @@
+===========Request=========
+{"pid":"77A7281","ci_session":"fa2cf3edae6c22a76ae93c804243e2ce93744620"}
+===========Response=========
+
+
+===========Request=========
+{"ci_session":"4ff7b598c9faecbdac61a56c7df69b622cbd40a6","PHPSESSID":"27e43e7597d46812eed6f28e5f00ed33"}
+===========Response=========
+
+

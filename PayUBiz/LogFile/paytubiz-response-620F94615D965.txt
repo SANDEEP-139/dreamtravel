@@ -1,0 +1,5 @@
+===========Request=========
+{"moduleName":"adivaha-hotelbeds","mtype":"hotel","pid":"77A88929","surl":"","furl":"","curl":"","key":"Uwu5ch","salt":"ni5MJe200DaGE3yfwbAB3m9OFT6XXLAX","order_id":"620F94615D965","orderamt":"U0V4Zm1tTWNkZEJTSURnODBBTmp5Zz09","productinfo":"Aura","firstname":"sandeep","email":"sandeepkumarji18071994@gmail.com","phone":"8287815398","hash":"0ea1388681331fa167a6d2e241cf7ebccf12a8fa9c1d2224d44c11dda6a2f8f5e113abbcaff703d10056c50a0a3b785a1e023c96d652db18213bee08a0023739","adh_redirect":"","PHPSESSID":"d112afe406f584066d917145bf627970"}
+===========Response=========
+
+

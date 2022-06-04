@@ -1,0 +1,4 @@
+[26-May-2022 08:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/dcfm7wmhjgav/public_html/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dcfm7wmhjgav/public_html/404.php on line 5

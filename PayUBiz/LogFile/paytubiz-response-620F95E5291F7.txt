@@ -1,0 +1,5 @@
+===========Request=========
+{"moduleName":"adivaha-hotelbeds","mtype":"hotel","pid":"77A88929","surl":"","furl":"","curl":"","key":"Uwu5ch","salt":"ni5MJe200DaGE3yfwbAB3m9OFT6XXLAX","order_id":"620F95E5291F7","orderamt":"K2hIcEFNTWRCZDl0dU9wV1I5NzFVQT09","productinfo":"The Park New Delhi","firstname":"sandeep","email":"sandeepkumarji18071994@gmail.com","phone":"8287815398","hash":"5d291b00d98fdae1c2b780712c728d6d14c696871171e2282c793b81904f28e6a37c47daade299b2ed1407d5b655ff041642a161e8ca08864dc4f192dc9f5eec","adh_redirect":""}
+===========Response=========
+
+

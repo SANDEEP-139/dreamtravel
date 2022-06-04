@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^demo\.dreammytriptourism\.com$
+RewriteRule ^/?$ "https\:\/\/dreammytriptourism\.com\/demo\/demo\/index\.html" [R=301,L]
+

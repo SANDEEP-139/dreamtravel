@@ -1,0 +1,5 @@
+===========Request=========
+{"moduleName":"adivaha-tbo-bus","mtype":"hotel","pid":"77A88929","surl":"","furl":"","curl":"","key":"Uwu5ch","salt":"ni5MJe200DaGE3yfwbAB3m9OFT6XXLAX","order_id":"62107AB30A3F9","orderamt":"ZS9LRGZwVnVOampENFJKNnA0SGxSUT09","productinfo":"Vikas Travels Regd.","firstname":"Test","email":"test@thewebconz.com","phone":"9988776655","hash":"92f37b75c13633b5ab2dd89fb99e13f74b0e007ce3e501aae1047ac44177f727266ecc01cfa59da1ec25d3bb46d75cbf82e1d93812a6f33bc0f3f808e9a9edd6","adh_redirect":"","ci_session":"4ff7b598c9faecbdac61a56c7df69b622cbd40a6"}
+===========Response=========
+
+
